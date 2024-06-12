@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋! My name is Adil Ahmed... <br>🚀 Aspiring Web Developer |💻 With every keystroke, I'm sculpting my dreams into reality, blending creativity with technology to build websites.</h3>
+<h3 align="left">Hi 👋! My name is Adil Ahmed... <br>a passionate web developer from INDIA </h3>
 
 ###
 
@@ -31,7 +31,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.instagram.com/adi___06" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E213AB&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
