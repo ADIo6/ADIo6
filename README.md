@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋! My name is Adil Ahmed... <br>a passionate web developer from INDIA </h3>
+<h3 align="center">Hi 👋! My name is Adil Ahmed... <br>a passionate web developer from INDIA </h3>
 
 ###
 
